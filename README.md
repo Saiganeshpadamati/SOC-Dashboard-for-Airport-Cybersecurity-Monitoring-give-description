@@ -1,20 +1,59 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# SOC Dashboard for Airport Cybersecurity Monitoring
 
-# Run and deploy your AI Studio app
+## Overview
 
-This contains everything you need to run your app locally.
+The SOC Dashboard for Airport Cybersecurity Monitoring is a project designed to simulate a Security Operations Center (SOC) environment for airport infrastructure and digital systems.
 
-View your app in AI Studio: https://ai.studio/apps/drive/18gig0YJj2l8lvZ-xBmcksFv1L6Y6ED7K
+The dashboard visualizes network activity, suspicious traffic, intrusion attempts, and cybersecurity threats to support real-time monitoring and incident response operations.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## Features
 
+* Real-Time Threat Monitoring
+* Intrusion Detection Visualization
+* Airport Network Traffic Monitoring
+* Security Event Logging
+* Threat Analysis Dashboard
+* Anomaly Detection Simulation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## Technologies Used
+
+* Python
+* JavaScript
+* HTML/CSS
+* SQL
+* Networking Concepts
+
+---
+
+## Cybersecurity Concepts Implemented
+
+* Security Monitoring
+* Threat Detection
+* Incident Analysis
+* Network Traffic Analysis
+* SOC Operations
+
+---
+
+## Project Objective
+
+The goal of this project is to demonstrate how airport cybersecurity teams can monitor digital infrastructure and respond to threats affecting operational systems and passenger-related services.
+
+---
+
+## Future Improvements
+
+* SIEM Tool Integration
+* AI-Based Threat Intelligence
+* Real-Time Alert System
+* Cloud-Based Monitoring Support
+
+---
+
+## Author
+
+Saiganesh Padamati
